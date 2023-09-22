@@ -1,0 +1,1 @@
+I have developed an algorithm using my knowledge of object-oriented programming that can solve the Eight Queens puzzle that prints out all the solutions and calculates the total number of solutions available.
